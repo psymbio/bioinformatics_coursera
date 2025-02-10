@@ -1,0 +1,2 @@
+The Hidden Message Problem is a well-defined computational problem. - False
+oriC is a well-defined computational problem. - True
