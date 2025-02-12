@@ -1,0 +1,11 @@
+Q. The position of the E. coli genome at which the skew attains a minimum value is most likely near which of the following?
+A. the origin of replication
+
+Q. True or False: Deamination is more likely to occur when DNA is single-stranded than when it is double-stranded.
+A. True
+
+Q. The position of the E. coli genome at which the skew attains a maximum value is most likely near which of the following?
+A. the replication terminus
+
+Q. Consecutive Okazaki fragments are sewn together by which of the following?
+A. DNA ligase
